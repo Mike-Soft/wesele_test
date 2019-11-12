@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\weseletest",
+    "\\weseletest\\Views",
+    "\\weseletest\\Views\\Home"
   ],
   "SelectedNode": "\\weseletest.sln",
   "PreviewInSolutionExplorer": false
