@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\source\\repos\\weseletest\\weseletest\\weseletest.csproj": {}
+    "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\source\\repos\\weseletest\\weseletest\\weseletest.csproj": {
+    "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\source\\repos\\weseletest\\weseletest\\weseletest.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
         "projectName": "weseletest",
-        "projectPath": "C:\\Users\\Mike\\source\\repos\\weseletest\\weseletest\\weseletest.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\source\\repos\\weseletest\\weseletest\\obj\\",
+        "projectPath": "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
+        "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
