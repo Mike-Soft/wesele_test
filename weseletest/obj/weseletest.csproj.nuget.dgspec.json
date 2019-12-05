@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj": {}
+    "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj": {
+    "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
         "projectName": "weseletest",
-        "projectPath": "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\obj\\",
+        "projectPath": "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
+        "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kamil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,23 +43,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -76,6 +82,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -84,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

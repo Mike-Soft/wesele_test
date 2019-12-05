@@ -61,8 +61,6 @@ C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreap
 C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.csprojAssemblyReference.cache
 C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\staticwebassets\weseletest.StaticWebAssets.Manifest.cache
 C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\staticwebassets\weseletest.StaticWebAssets.xml
-C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.RazorAssemblyInfo.cache
 C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.RazorAssemblyInfo.cs
 C:\Users\kamil\source\repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.AssemblyInfoInputs.cache
@@ -148,3 +146,22 @@ C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Deb
 C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.RazorTargetAssemblyInfo.cs
 C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.Views.pdb
 C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.csproj.CopyComplete
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kamil\Source\Repos\Mike-Soft\wesele_test\weseletest\obj\Debug\netcoreapp3.0\weseletest.MvcApplicationPartsAssemblyInfo.cache
