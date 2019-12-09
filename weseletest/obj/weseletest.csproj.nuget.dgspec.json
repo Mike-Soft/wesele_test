@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {}
+    "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {
+    "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
+        "projectUniqueName": "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
         "projectName": "weseletest",
-        "projectPath": "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
+        "projectPath": "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\weseletest.csproj",
         "packagesPath": "C:\\Users\\kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kamil\\Source\\Repos\\Mike-Soft\\wesele_test\\weseletest\\obj\\",
+        "outputPath": "C:\\Users\\kamil\\source\\repos\\Mike-Soft\\wesele_test\\weseletest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,15 +43,15 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -61,15 +61,27 @@
               "target": "Package",
               "version": "[3.1.0, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.0, )"
             },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.9.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using weseletest.Models;
 
 namespace weseletest.Data
 {
@@ -12,5 +13,6 @@ namespace weseletest.Data
             : base(options)
         {
         }
+        public DbSet<weseletest.Models.Customer> Customer { get; set; }
     }
 }
