@@ -2,6 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\weseletest",
+    "\\weseletest\\Data",
+    "\\weseletest\\Data\\Migrations",
     "\\weseletest\\Views",
     "\\weseletest\\Views\\Home"
   ],
