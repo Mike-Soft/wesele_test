@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-weseletest-0EB0E496-4910-4AEF-B807-646E4571F3A4")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("weseletest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
