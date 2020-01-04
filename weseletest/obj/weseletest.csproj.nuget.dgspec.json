@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj": {}
+    "C:\\wesele_test\\weseletest\\weseletest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj": {
+    "C:\\wesele_test\\weseletest\\weseletest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj",
+        "projectUniqueName": "C:\\wesele_test\\weseletest\\weseletest.csproj",
         "projectName": "weseletest",
-        "projectPath": "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\weseletest.csproj",
-        "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mike\\Desktop\\Michal\\.NET projekty\\nauka2\\wesele_test\\weseletest\\obj\\",
+        "projectPath": "C:\\wesele_test\\weseletest\\weseletest.csproj",
+        "packagesPath": "C:\\Users\\wompe\\.nuget\\packages\\",
+        "outputPath": "C:\\wesele_test\\weseletest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\wompe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

@@ -14,5 +14,6 @@ namespace weseletest.Data
         {
         }
         public DbSet<weseletest.Models.Customer> Customer { get; set; }
+        public DbSet<weseletest.Models.ToDoItem> ToDoItem { get; set; }
     }
 }
