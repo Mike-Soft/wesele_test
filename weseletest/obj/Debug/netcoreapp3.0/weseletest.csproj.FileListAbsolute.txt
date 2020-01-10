@@ -559,3 +559,9 @@ C:\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Delete.c
 C:\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Details.cshtml.g.cs
 C:\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Edit.cshtml.g.cs
 C:\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Index.cshtml.g.cs
+C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_MenuPartial.cshtml.g.cs
+C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Create.cshtml.g.cs
+C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Delete.cshtml.g.cs
+C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Details.cshtml.g.cs
+C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Edit.cshtml.g.cs
+C:\Users\Mike\Desktop\Michal\.NET projekty\nauka2\wesele_test\weseletest\obj\Debug\netcoreapp3.0\Razor\Views\ToDoItems\Index.cshtml.g.cs
